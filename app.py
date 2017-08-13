@@ -11,4 +11,5 @@ word_list = xp.generate_wordlist()
 def get_new_password():
     return xp.generate_xkcdpassword(word_list)
 
-app.run()
+if __name__ == '__main__':
+    app.run()
