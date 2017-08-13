@@ -1,0 +1,14 @@
+{
+  "name": "xkcdpass-api",
+  "description": "A REST API for generating XKCD passwords using xkcdpass",
+  "keywords": [
+    "flask",
+    "python",
+    "xkcd",
+    "rest",
+    "api"
+  ],
+  "repository": "https://github.com/jamesevickery/xkcdpass-api",
+  "addons": []
+}
+
